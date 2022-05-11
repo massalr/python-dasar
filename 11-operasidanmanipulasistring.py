@@ -50,3 +50,9 @@ print(nama)
 salam = "hallo"
 apakah_lower = salam.islower()
 print(salam + " apakah lower : " + str(apakah_lower))
+
+# isalpha() : untuk mengecek semua huruf
+# isalnum() : huruf dan angka
+# isdecimal() : angka saja
+# isspace() : spasi, tab, newline
+# istitle() : semua kata dimulai dengan huruf besar
